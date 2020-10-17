@@ -31,16 +31,16 @@ Visit the hactoberfest site for more details :- https://hacktoberfest.digitaloce
 - Create a pull request
 - Star this repository
 
-# How to make your first Pull Request
+# How to make your first Pull Request: -
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+Replace `<your-username>` with your GitHub username in this guide.
 
 ## 1. Add your quote card to the folder
 
-Add a quote card of your choice in `index.html`.
+Add a quote card of your choice in `index1.html`.
 
 ```
-index.html
+index1.html
 ```
 
 
